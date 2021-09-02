@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ru.geekbrains.javaback.ProductTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.552 s <<< FAILURE! - in ru.geekbrains.javaback.ProductTests
+postProductTest  Time elapsed: 0.822 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "ru.geekbrains.javaback.Entity.Product.getTitle()" because the return value of "retrofit2.Response.body()" is null
+	at ru.geekbrains.javaback.ProductTests.postProductTest(ProductTests.java:52)
+

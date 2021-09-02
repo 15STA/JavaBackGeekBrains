@@ -1,0 +1,6 @@
+ru\geekbrains\javaback\utils\RetrofitUtils.class
+ru\geekbrains\javaback\Entity\Category.class
+ru\geekbrains\javaback\enums\CategoryType.class
+ru\geekbrains\javaback\service\CategoryService.class
+ru\geekbrains\javaback\service\ProductService.class
+ru\geekbrains\javaback\Entity\Product.class
