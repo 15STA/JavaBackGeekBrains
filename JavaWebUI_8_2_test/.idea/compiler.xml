@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaWebUI_8_2" />
+        <module name="JavaWebUI_4" />
+        <module name="JavaWebUI_8_2_test" />
+        <module name="JavaWebUI_6" />
+        <module name="JavaWebUI_5" />
+        <module name="JavaWebUI_8" />
+        <module name="JavaWebUI_7" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
